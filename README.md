@@ -89,3 +89,6 @@ README.md
 **Suman Shankar**
 
 Aspiring Data Analyst skilled in SQL, Power BI, Excel and Python.
+## Dashboard Preview
+
+![Dashboard](images/dashboard_screenshot.png)
