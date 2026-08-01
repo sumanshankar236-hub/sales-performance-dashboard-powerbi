@@ -1,3 +1,4 @@
+![Sales Dashboard](Screenshot%202026-04-25%20203639.png)
 # Sales Performance Dashboard (Power BI)
 
 ## Overview
